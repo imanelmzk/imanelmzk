@@ -113,7 +113,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 <div align="center">
-[![imane's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanelmzk)](https://github.com/imanelmzk/github-readme-stats)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user="imanelmzk />
 </div>
 
 
