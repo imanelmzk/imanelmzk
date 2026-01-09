@@ -114,10 +114,11 @@
 </div>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=imanelmzk&show_icons=true&theme=dark" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanelmzk&layout=compact&theme=dark" 
+    alt="Top Languages"
   />
 </p>
+
 
 
 
