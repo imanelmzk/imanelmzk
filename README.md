@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imanelmzk" alt="imanelmzk" /></a> </p>
+
 
 <h1 align="left">About me</h1>
 
