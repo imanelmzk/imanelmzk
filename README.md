@@ -113,13 +113,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=imanelmzk&theme=dark&short_numbers=true" 
-      alt="GitHub Streak"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=imanelmzk&show_icons=true&theme=dark" 
+    alt="GitHub Stats"
+  />
 </p>
+
 
 
 
