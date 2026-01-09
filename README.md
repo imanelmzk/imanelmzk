@@ -97,6 +97,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/imanelmzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/imanelmzk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imane-lmzk9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imane-lmzk9/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22984896/imane-lmzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22984896/imane-lmzk" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/imanelmzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/imanelmzk" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550671515917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550671515917" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/web_devloppment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/web_devloppment/" height="30" width="40" /></a>
+</p>
 
 ###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanelmzk&" /></p>
