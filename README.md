@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imane LMZK</h1>
 <h3 align="center">A passionate developer Engineer from Morocco</h3>
 
-// <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imanelmzk" alt="imanelmzk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/imanelmzk" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/imanelmzk?logo=twitter&style=for-the-badge" alt="https://x.com/imanelmzk" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/imanelmzk/e-commerce)
 
