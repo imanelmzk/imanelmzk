@@ -112,8 +112,9 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=imanelmzk%2Fimanelmzk&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=imanelmzk&theme=dark&short_numbers=true" alt="GitHub Streak" />
+</a>
+
 
 
