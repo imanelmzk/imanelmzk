@@ -3,7 +3,8 @@
 ###
 
 <p align="left">My name is IMANE LMZK and i'm a passionate developer engineer, from Moroccow</p>
-
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
 ###
 
 <h1 align="left">About me</h1>
@@ -105,8 +106,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22984896/imane-lmzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22984896/imane-lmzk" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/imanelmzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/imanelmzk" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61550671515917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550671515917" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/web_devloppment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/web_devloppment/" height="30" width="40" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<a href="https://instagram.com/https://www.instagram.com/web_devloppment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/web_devloppment/" height="30" width="40" /></a> 
 </p>
 
 ###
