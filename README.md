@@ -113,9 +113,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-###
-### 🔝 Top Contributed Repo
+
+### 
+🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imanelmzk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-###
+
