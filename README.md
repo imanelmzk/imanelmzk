@@ -108,9 +108,7 @@
 <a href="https://instagram.com/https://www.instagram.com/web_devloppment/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/web_devloppment/" height="30" width="40" /></a> 
 </p>
 
-###
-<img src="https://raw.githubusercontent.com/imanelmzk/imanelmzk/main/assets/stats.svg" />
-<img src="https://raw.githubusercontent.com/imanelmzk/imanelmzk/output/github-contribution-grid-snake.svg" />
+
 
 
 
