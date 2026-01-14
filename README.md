@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is IMANE LMZK and i'm a passionate developer engineer, from Morocco</p>
+![Profile Views](https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <h1 align="left">About me</h1>
