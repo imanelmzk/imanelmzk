@@ -2,12 +2,12 @@
 
 ###
 
-<h2 align="center">My name is IMANE LMZK and i'm a passionate developer engineer, from Morocco</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
+<h2 align="center">I'm IMANE LMZK, i'm a passionate developer engineer</h2>
+
 
 
 <h1 align="left">About me</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
 ###
 
 <h4 align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Full-Stuck<br>🎯 Goals: Professional Developer<br>🎲 Fun fact: Sport</h4>
