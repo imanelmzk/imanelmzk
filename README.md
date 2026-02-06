@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is IMANE LMZK and i'm a passionate developer engineer, from Morocco</p>
+<h2 align="center">My name is IMANE LMZK and i'm a passionate developer engineer, from Morocco</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanelmzk&label=Profile%20views&color=0e75b6&style=flat" alt="imanelmzk" /> </p>
 
 
